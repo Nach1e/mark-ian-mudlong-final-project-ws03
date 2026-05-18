@@ -1,0 +1,16 @@
+{
+    "name": "markianmudlong/ws03-php",
+    "description": "Job Listing PHP Project",
+    "authors": [
+        {
+            "name": "Mark Ian Mudlong",
+            "email": "markianmudlong50@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
